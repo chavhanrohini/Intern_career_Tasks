@@ -8,7 +8,6 @@ In the first task of this project, I implemented a web scraping approach to gath
 3. Features
 4. Effective Pixels
 5. Sensor Type
-6. Warranty Information
 
 Subsequently, this selected data was organized into a structured format by creating a data frame. This data frame served as the foundation for further analysis and processing in the subsequent tasks of the project.
 
