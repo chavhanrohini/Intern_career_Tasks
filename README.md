@@ -11,7 +11,7 @@ In the first task of this project, I implemented a web scraping approach to gath
 
 Subsequently, this selected data was organized into a structured format by creating a data frame. This data frame served as the foundation for further analysis and processing in the subsequent tasks of the project.
 
-In subsequent steps, each attribute of the selected data, including camera name, price, features, effective pixels, sensor type, and warranty, underwent a meticulous cleaning process. This ensured that the final dataset was refined and ready for downstream analysis and utilization.
+In subsequent steps, each attribute of the selected data, including camera name, price, features, effective pixels and sensor type underwent a meticulous cleaning process. This ensured that the final dataset was refined and ready for downstream analysis and utilization.
 
 This methodology allowed for the extraction of meaningful insights from the camera data, facilitating a more efficient and informed decision-making process for users interested in purchasing cameras from Flipkart.
 
